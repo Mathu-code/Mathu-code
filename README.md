@@ -1,3 +1,27 @@
+## 👋 Hi! I'm Mathuran, a 2nd-year IT undergraduate (🎓 BSc, completing in June 2027).  
+Passionate about full-stack development, problem-solving, and DevOps automation.
+
+<p>
+  <img src="https://img.shields.io/badge/Followers-4-blue?style=flat-square&logo=github">
+  <span>&nbsp;·&nbsp;</span>
+  <img src="https://img.shields.io/badge/Following-4-blue?style=flat-square&logo=github">
+</p>
+
+<p>
+  <img src="https://img.icons8.com/material-rounded/16/000000/marker.png"/> <span>Jaffna, Sri Lanka</span><br>
+  <img src="https://img.icons8.com/material-rounded/16/000000/new-post.png"/> <a href="mailto:mathuran27022002@gmail.com">mathuran27022002@gmail.com</a><br>
+  <img src="https://img.icons8.com/material-rounded/16/000000/instagram-new.png"/> <a href="https://www.instagram.com/massmathuran">massmathuran</a><br>
+  <img src="https://img.icons8.com/material-rounded/16/000000/linkedin.png"/> <a href="https://lk.linkedin.com/in/mathuran-koneswaran-936306282">in/mathuran-koneswaran-936306282</a>
+</p>
+
+---
+
+### 🏅 Achievements
+
+<img src="https://em-content.zobj.net/source/microsoft-teams/363/cowboy-hat-face_1f920.png" alt="Cowboy Achievement" width="48"/>
+
+---
+
 ## <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f680.png" width="32" /> About Me: <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f449.png" width="32" />
 
 ---
