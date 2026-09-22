@@ -1,8 +1,8 @@
 # 💫 About Me: 👇
 
 👋 Hey there! I'm Mathuran 🚀<br>
-🎓 Aspiring Software Engineer | Full-Stack Developer | DevOps Enthusiast<br>
-I'm a 2nd-year IT undergraduate 🎓 (BSc in Information Technology, graduating in June 2027) with a deep passion for Full-Stack Development, DevOps, and Problem-Solving.🧑‍🎓 I thrive on building efficient, scalable applications and automating workflows to make technology smarter and faster.✨<br><br>
+🎓 AI/ML | Full-Stack Developer | DevOps Enthusiast<br>
+I'm a 3rd-year Data Science undergraduate 🎓 (BSc in Information Technology, graduating in Nov 2027) with a deep passion for AI/ML, DevOps, and Problem-Solving.🧑‍🎓 I thrive on building efficient, scalable applications and automating workflows to make technology smarter and faster.✨<br><br>
 
 🛠️ <b>Tech Stack & Skills</b>:<br>
 💻 <b>Languages:</b> C, C#, C++, Java, Python, PHP, JavaScript, HTML, CSS, R, Kotlin, PowerShell<br>
